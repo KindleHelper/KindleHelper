@@ -1,0 +1,53 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\KindleHelper.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\KindleHelper.exe.manifest
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\KindleHelper.application
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\KindleHelper.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\KindleHelper.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\SendLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\SendLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Release\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormBookDetail.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormSearch.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormSearchResult.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormTocList.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.exe.manifest
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.application
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe.manifest
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.application
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\log4net.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\uninstall.bat
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\install.bat
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe.config
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\KindleHelper-master\KindleHelper-master\Publish Version\log4net.config
+D:\KindleHelper-master\KindleHelper-master\Publish Version\uninstall.bat
+D:\KindleHelper-master\KindleHelper-master\Publish Version\install.bat
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe.manifest
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.application
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormBookDetail.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormSearch.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormSearchResult.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.FormTocList.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.Properties.Resources.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.csproj.GenerateResource.Cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.exe.manifest
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Release\KindleHelper.application

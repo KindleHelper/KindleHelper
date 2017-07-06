@@ -1,0 +1,4 @@
+E:\Project2016\ZipLibary\Zip\bin\Debug\Ionic.dll
+E:\Project2016\ZipLibary\Zip\bin\Debug\Ionic.pdb
+E:\Project2016\ZipLibary\Zip\obj\Debug\Ionic.dll
+E:\Project2016\ZipLibary\Zip\obj\Debug\Ionic.pdb

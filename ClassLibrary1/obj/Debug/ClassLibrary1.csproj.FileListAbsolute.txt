@@ -1,0 +1,11 @@
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\bin\Debug\System.Net.creathttp.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\bin\Debug\System.Net.creathttp.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\bin\Debug\ClassLibrary1.tlb
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\ClassLibrary1.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\ClassLibrary1.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\ClassLibrary1.tlb
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

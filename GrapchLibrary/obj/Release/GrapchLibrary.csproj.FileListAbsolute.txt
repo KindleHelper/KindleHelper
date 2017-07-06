@@ -1,0 +1,19 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\GrapchLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\GrapchLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\test.jpg
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\test.jpg
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\GrapchLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Release\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Release\GrapchLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\KindleHelper-master\KindleHelper-master\Publish Version\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\Publish Version\GrapchLibrary.pdb

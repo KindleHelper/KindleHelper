@@ -1,0 +1,123 @@
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.config
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.manifest
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.application
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormBookDetail.resources
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearch.resources
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearchResult.resources
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormTocList.resources
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.Properties.Resources.resources
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csproj.GenerateResource.Cache
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe.manifest
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.application
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.manifest
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.application
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\SendLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\SendLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormBookDetail.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearch.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearchResult.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormTocList.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe.manifest
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.application
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\test.jpg
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.config
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\uninstall.bat
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\install.bat
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.config
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.manifest
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.application
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleSender.Service.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\GrapchLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleSender.Service.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\LibImport.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.xml
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.xml
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormBookDetail.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearch.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearchResult.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormTocList.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.Properties.Resources.resources
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csproj.GenerateResource.Cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe.manifest
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.application
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\test.jpg
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.config
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\uninstall.bat
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\install.bat
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.config
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe.manifest
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.application
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleHelper.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\GrapchLibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleSender.Service.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\LibImport.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\GrapchLibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\KindleSender.Service.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\LibImport.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\libZhuishu.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\loglibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\log4net.xml
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\bin\Debug\Newtonsoft.Json.xml
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\log4net.config
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\uninstall.bat
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\install.bat
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe.config
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csprojResolveAssemblyReference.cache
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.AboutBox1.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.Form1.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormBookDetail.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearch.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormSearchResult.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.FormTocList.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.Properties.Resources.resources
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.csproj.GenerateResource.Cache
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper\obj\Debug\KindleHelper.pdb

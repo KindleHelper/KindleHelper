@@ -1,0 +1,18 @@
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\loglibrary\bin\Debug\loglibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\loglibrary\obj\Debug\loglibrary.pdb

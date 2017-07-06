@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\bin\Release\AppConfigWriteLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\bin\Release\AppConfigWriteLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\obj\Release\AppConfigWriteLibrary.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\obj\Release\AppConfigWriteLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\obj\Release\AppConfigWriteLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\AppConfigWriteLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\AppConfigWriteLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\AppConfigWriteLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\Publish Version\AppConfigWriteLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\obj\Release\AppConfigWriteLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\AppConfigWriteLibrary\obj\Release\AppConfigWriteLibrary.pdb

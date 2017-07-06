@@ -1,0 +1,20 @@
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.exe.config
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.exe
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\libZhuishu.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\libZhuishu.pdb
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.exe
+C:\Users\John\Downloads\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\KindleHelperCommand.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelperCommand\obj\Debug\KindleHelperCommand.pdb

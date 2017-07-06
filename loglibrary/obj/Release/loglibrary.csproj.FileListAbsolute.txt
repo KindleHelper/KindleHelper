@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\bin\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\bin\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\loglibrary\obj\Release\loglibrary.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\Publish Version\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\loglibrary\obj\Release\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\loglibrary\obj\Release\loglibrary.pdb

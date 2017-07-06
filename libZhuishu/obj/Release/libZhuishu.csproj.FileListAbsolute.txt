@@ -1,0 +1,13 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\bin\Release\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\bin\Release\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\bin\Release\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\bin\Release\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\obj\Release\libZhuishu.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\obj\Release\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\libZhuishu\obj\Release\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\libZhuishu.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\libZhuishu.dll
+D:\KindleHelper-master\KindleHelper-master\Publish Version\libZhuishu.pdb
+D:\KindleHelper-master\KindleHelper-master\libZhuishu\obj\Release\libZhuishu.dll
+D:\KindleHelper-master\KindleHelper-master\libZhuishu\obj\Release\libZhuishu.pdb

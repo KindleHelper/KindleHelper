@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/7/3 1:04:58。
+     1>项目“D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Plugin.CPPPlugin\KindleHelper.Plugin.CPPPlugin.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+     1>InitializeBuildStatus:
+         正在创建“Debug\KindleHelper.Plugin.CPPPlugin.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       GenerateTargetFrameworkMonikerAttribute:
+       正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:safe /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\KindleHelper.Plugin.CPPPlugin.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.Interface.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Stdafx.cpp /clr:nostdlib 
+         Stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:safe /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\KindleHelper.Plugin.CPPPlugin.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.Interface.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp KindleHelper.Plugin.CPPPlugin.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         KindleHelper.Plugin.CPPPlugin.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:safe /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\John\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.CPPPlugin.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\KindleHelper.Plugin.CPPPlugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.CPPPlugin.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\KindleHelper.Plugin.CPPPlugin.obj
+         Debug\Stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         KindleHelper.Plugin.CPPPlugin.vcxproj -> D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.CPPPlugin.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\plugin\KindleHelper.Plugin.CPPPlugin.dll;#2" /manifest Debug\KindleHelper.Plugin.CPPPlugin.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\KindleHelper.Plugin.CPPPlugin.unsuccessfulbuild”。
+         正在对“Debug\KindleHelper.Plugin.CPPPlugin.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Plugin.CPPPlugin\KindleHelper.Plugin.CPPPlugin.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.62

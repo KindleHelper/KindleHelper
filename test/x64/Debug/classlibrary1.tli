@@ -1,0 +1,30 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.40219.01 (555a3e68).
+//
+// d:\$代码\kindlehelper-master\kindlehelper-master\test\x64\debug\classlibrary1.tli
+//
+// Wrapper implementations for Win32 type library ClassLibrary1.tlb
+// compiler-generated file created 07/03/17 at 01:04:54 - DO NOT EDIT!
+
+#pragma once
+
+//
+// interface MyCom_Interface wrapper method implementations
+//
+
+inline long MyCom_Interface::Add ( long a, long b ) {
+    long _result = 0;
+    HRESULT _hr = raw_Add(a, b, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+//
+// interface MyCom_Interface_2 wrapper method implementations
+//
+
+inline IUnknownPtr MyCom_Interface_2::CreateHttp ( _bstr_t requestUriString ) {
+    IUnknown * _result = 0;
+    HRESULT _hr = raw_CreateHttp(requestUriString, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return IUnknownPtr(_result, false);
+}

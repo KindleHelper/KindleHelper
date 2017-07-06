@@ -1,0 +1,113 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.40219.01 (b7e280f1).
+//
+// d:\$代码\kindlehelper-master\kindlehelper-master\test\itanium\debug\classlibrary1.tlh
+//
+// C++ source equivalent of Win32 type library ClassLibrary1.tlb
+// compiler-generated file created 07/02/17 at 09:09:39 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace ClassLibrary1 {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("cd4e2c0b-d136-4ac1-88eb-b52a23b20d35"))
+/* LIBID */ __ClassLibrary1;
+struct __declspec(uuid("154bd6a6-5ab8-4d7d-a343-0a68ab79470b"))
+/* dual interface */ MyCom_Interface;
+struct __declspec(uuid("d11fea37-ac57-4d39-9522-e49c4f9826bb"))
+/* dispinterface */ MyCom_Events;
+struct /* coclass */ Class1;
+struct __declspec(uuid("b764ee62-6eef-4ddf-8045-f0cb1438ef36"))
+/* dual interface */ MyCom_Interface_2;
+struct __declspec(uuid("8583e0d5-820f-4b19-9f04-208dce6c9366"))
+/* dispinterface */ MyCom_Events_2;
+struct /* coclass */ Class2;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(MyCom_Interface, __uuidof(MyCom_Interface));
+_COM_SMARTPTR_TYPEDEF(MyCom_Events, __uuidof(MyCom_Events));
+_COM_SMARTPTR_TYPEDEF(MyCom_Interface_2, __uuidof(MyCom_Interface_2));
+_COM_SMARTPTR_TYPEDEF(MyCom_Events_2, __uuidof(MyCom_Events_2));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("154bd6a6-5ab8-4d7d-a343-0a68ab79470b"))
+MyCom_Interface : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long Add (
+        long a,
+        long b );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_Add (
+        /*[in]*/ long a,
+        /*[in]*/ long b,
+        /*[out,retval]*/ long * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("d11fea37-ac57-4d39-9522-e49c4f9826bb"))
+MyCom_Events : IDispatch
+{};
+
+struct __declspec(uuid("2e3c7bad-1051-4622-9c4c-215182c6bf58"))
+Class1;
+    // interface _Object
+    // [ default ] interface MyCom_Interface
+    // [ default, source ] dispinterface MyCom_Events
+
+struct __declspec(uuid("b764ee62-6eef-4ddf-8045-f0cb1438ef36"))
+MyCom_Interface_2 : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    IUnknownPtr CreateHttp (
+        _bstr_t requestUriString );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_CreateHttp (
+        /*[in]*/ BSTR requestUriString,
+        /*[out,retval]*/ IUnknown * * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("8583e0d5-820f-4b19-9f04-208dce6c9366"))
+MyCom_Events_2 : IDispatch
+{};
+
+struct __declspec(uuid("b8b3b408-ea74-449f-9a0d-1c43492bccc6"))
+Class2;
+    // interface _Object
+    // [ default ] interface MyCom_Interface_2
+    // [ default, source ] dispinterface MyCom_Events_2
+
+//
+// Wrapper method implementations
+//
+
+#include "d:\$代码\kindlehelper-master\kindlehelper-master\test\itanium\debug\classlibrary1.tli"
+
+} // namespace ClassLibrary1
+
+#pragma pack(pop)

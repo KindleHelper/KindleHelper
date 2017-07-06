@@ -1,0 +1,42 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\UnitTestProject1.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\UnitTestProject1.pdb
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\UnitTestProject1.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.dll
+D:\KindleHelper-master\KindleHelper-master\UnitTestProject1\obj\Release\UnitTestProject1.pdb

@@ -1,0 +1,33 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe.config
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.dll
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.xml
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe.config
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\KindleHelper.Command.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\libZhuishu.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Debug\Newtonsoft.Json.xml
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe.config
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.csprojResolveAssemblyReference.cache
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Debug\KindleHelper.Command.pdb

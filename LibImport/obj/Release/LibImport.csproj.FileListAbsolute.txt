@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\LibImport\bin\Release\LibImport.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\LibImport\bin\Release\LibImport.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\LibImport\obj\Release\LibImport.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\LibImport\obj\Release\LibImport.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\LibImport\obj\Release\LibImport.pdb
+D:\KindleHelper-master\KindleHelper-master\LibImport\bin\Release\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\LibImport\bin\Release\LibImport.pdb
+D:\KindleHelper-master\KindleHelper-master\LibImport\obj\Release\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\LibImport\obj\Release\LibImport.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\Publish Version\LibImport.pdb

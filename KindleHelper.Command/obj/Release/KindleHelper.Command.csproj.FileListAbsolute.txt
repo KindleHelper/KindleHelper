@@ -1,0 +1,19 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\KindleHelper.Command.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\KindleHelper.Command.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\KindleHelper.Command.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\libZhuishu.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\Newtonsoft.Json.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\libZhuishu.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\bin\Release\Newtonsoft.Json.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe.config
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.exe
+D:\KindleHelper-master\KindleHelper-master\Publish Version\KindleHelper.Command.pdb
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.exe
+D:\KindleHelper-master\KindleHelper-master\KindleHelper.Command\obj\Release\KindleHelper.Command.pdb

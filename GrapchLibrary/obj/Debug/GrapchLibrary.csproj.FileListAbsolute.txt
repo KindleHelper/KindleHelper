@@ -1,0 +1,19 @@
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\test.jpg
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\GrapchLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\test.jpg
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\GrapchLibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\GrapchLibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\loglibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\bin\Debug\loglibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\GrapchLibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\GrapchLibrary.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.csprojResolveAssemblyReference.cache
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\GrapchLibrary\obj\Debug\GrapchLibrary.pdb

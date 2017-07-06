@@ -1,0 +1,32 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GrapchLibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\loglibrary.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GrapchLibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\loglibrary.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.Form1.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\test.jpg
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\test.jpg
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.exe.config
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.exe
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GuiTest.pdb
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GrapchLibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\loglibrary.dll
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\GrapchLibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GuiTest\bin\Release\loglibrary.pdb
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.csprojResolveAssemblyReference.cache
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.Form1.resources
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.Properties.Resources.resources
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.csproj.GenerateResource.Cache
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.exe
+D:\KindleHelper-master\KindleHelper-master\GuiTest\obj\Release\GuiTest.pdb
+D:\KindleHelper-master\KindleHelper-master\Publish Version\test.jpg
+D:\KindleHelper-master\KindleHelper-master\Publish Version\GuiTest.exe.config
+D:\KindleHelper-master\KindleHelper-master\Publish Version\GuiTest.exe
+D:\KindleHelper-master\KindleHelper-master\Publish Version\GuiTest.pdb

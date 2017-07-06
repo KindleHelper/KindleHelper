@@ -1,0 +1,10 @@
+D:\KindleHelper-master\KindleHelper-master\LibImport\bin\Debug\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\LibImport\bin\Debug\LibImport.pdb
+D:\KindleHelper-master\KindleHelper-master\LibImport\obj\Debug\LibImport.dll
+D:\KindleHelper-master\KindleHelper-master\LibImport\obj\Debug\LibImport.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\LibImport\bin\Debug\LibImport.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\LibImport\bin\Debug\LibImport.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\LibImport.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\Publish Version\LibImport.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\LibImport\obj\Debug\LibImport.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\LibImport\obj\Debug\LibImport.pdb

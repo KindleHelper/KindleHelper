@@ -1,0 +1,10 @@
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\Tester.exe.config
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\Tester.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\Tester.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\eBdb.EpubReader.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\Ionic.dll
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\eBdb.EpubReader.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\bin\Debug\Ionic.pdb
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\obj\Debug\Tester.exe
+D:\$代码\KindleHelper-master\KindleHelper-master\Epub\Tester\obj\Debug\Tester.pdb
